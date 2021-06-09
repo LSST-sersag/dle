@@ -1,5 +1,7 @@
 # Building Deep Learning Engine (DLE) for AGN light-curves
 
+![image001](https://user-images.githubusercontent.com/78701856/121324461-0b87ac80-c911-11eb-8196-2c688f61a4bd.png)
+
 <b> PIs:</b>  Andjelka Kovacevic (andjelka@math.rs), Dragana Ilic (dilic@math.rs), University of Belgrade,
 
 <b> Co-Is:</b>  Luka C. Popovic (Astronomical Observatory Belgrade, University of Belgrade, lpopovic@aob.rs), Paula Sánchez Sáez (Pontificia Universidad Católica de Chile, pasanchezsaez@gmail.com), Robert Nikkuta
@@ -7,7 +9,8 @@
 
 <b> Postdocs: </b> Viktor Radović (rviktor@math.rs,, University of Belgrade), Djordje Savić(djasvic@aob.rs,,
 Astronomical Observatory Belgrade)
-PhD students: Iva Čvorović Hajdinjak(iva_cvorovic@gmail.com,University of Belgrade) Isidora Jankov (isidora_jankov@math.rs,University of Belgrade)
+
+<b> PhD students: </b> Iva Čvorović Hajdinjak(iva_cvorovic@gmail.com,University of Belgrade), Isidora Jankov (isidora_jankov@math.rs,University of Belgrade), Nemanja Rakić (rakinemanja@gmail.com, University of Belgrade)
 
 <b> Summary: </b> <i>  Developing deep learning engines (DLEs) for non-parametric modeling and extracting of information from active galactic nuclei (AGN) light-curves (LCs), which are directly related to the scientific objectives of the LSST Exploring transient optical sky. Developed DLEs Jupyter notebooks might be adaptable for modeling of light-curves of other objects, and will be tested on LSST Data Previews, as well as on other datasets through NOIRLab services. </i>
 
@@ -37,9 +40,11 @@ Meeting - EAS 2021, subtheme SS32: Machine learning and visualisation in data in
 
 <i> PhD student DLE2. </i> PhotoRM in action. Development of Jupyter notebooks for extraction of time-lags from photometric AGN light curves across redshift based on pure PRM principles. Contribution of notebooks to the Astro Data Lab science platform.
 In the first phase, DLEs will be developed on the local Cluster. We will run and test computationally intensive codes on cluster GPUs, for which we plan an add-on through this project. DLEs will be tested on available datasets (ZTF, CRTS) through NOIRLab services, and on the LSST Data Previews and artificially generated LC (such as PLAsTiCC 2). Since our LC modeling is data driven (non-parametric) both projects can be tested on other objects and transients LC, such as binary stars and microlensing. Trimester progress reports and the summary reports will be provided.
+
 <i> 4 x Short-term student internships. </i> Four undergraduate student internships for user testing of DLE1 and DLE2 projects on different datasets (ZTF, CRTS) and show-cases, providing solutions for minor problems and bugs. New students from physics, astrophysics, informatics, and statistics background will be selected based on their motivation and skills from the PIs institutions, and the region. Internship will start mid-project, between university semesters. The expected internship duration is 13 weeks each, yielding approx. 200 working hours per student, and will be funded with $US 500/internship. Funded students are expected to submit a summary report within a month of completing the project.
 
-<b> Supervision. </b> Two students (1 PhD, 1 undergraduate) will be supervised by each of the two PIs, with the support of other co-PIs. The supervisor’s role is to formulate their research project and related questions, decide what methods of research to use, evaluate the results of their research, ensure their work meets the necessary standards expected by Rubin LSST Community and academia, help to meet the deadlines, use feedback to enhance their work, and provide guidance for preparation of conference presentations and journal papers. The supervision will also teach shared responsibilities and mutual respect. .
+<b> Supervision. </b> Two students (1 PhD, 1 undergraduate) will be supervised by each of the two PIs, with the support of other co-PIs. The supervisor’s role is to formulate their research project and related questions, decide what methods of research to use, evaluate the results of their research, ensure their work meets the necessary standards expected by Rubin LSST Community and academia, help to meet the deadlines, use feedback to enhance their work, and provide guidance for preparation of conference presentations and journal papers. The supervision will also teach shared responsibilities and mutual respect. 
+
 <b> HR and Management.</b>  Our team consists of five experts in AGN time-domain studies supporting diversity in any sense, gender, racial, national, etc., emphasizing female participation. The team has successfully managed many scientific projects and has a long and rich experience in organizing events of various kinds and formats.
 
 
