@@ -70,12 +70,16 @@ learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 
 <br>
 This meeting is graciously supported by a grant from the LSST Corporation's Enabling Science Small Grants Program and by the University of Belgrade.
 
+[foto_initials.pdf](https://github.com/LSST-sersag/dle/files/6647223/foto_initials.pdf)
+
 <table>
   
   <tr>
     <td><img width=220 height=100 src="https://user-images.githubusercontent.com/78701856/121324461-0b87ac80-c911-11eb-8196-2c688f61a4bd.png"> </td>
     <td> <img width =210 height=100 src="https://user-images.githubusercontent.com/78701856/121673183-edf14900-cab0-11eb-83e6-ceeac881c2f9.png"></td> 
     <td> <img width=220 height=100 src="https://user-images.githubusercontent.com/78701856/121673230-f8abde00-cab0-11eb-8f1c-eacf6c399c4b.png"> </td>
+  </tr>
+  <tr>
     <td>  <img width=250 height=100 src="https://user-images.githubusercontent.com/78701856/121677377-116ac280-cab6-11eb-80a9-058141fd9939.png"> </td>
     <td> <img width=130 height=100 src="https://user-images.githubusercontent.com/78701856/121677418-1d568480-cab6-11eb-8c42-0a72b4e8ead5.gif"> </td>
     <td> <img width=200 height=100 src="https://user-images.githubusercontent.com/78701856/121677472-3101eb00-cab6-11eb-87fc-b1c193d03ef0.png"> </td>
