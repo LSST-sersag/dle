@@ -70,7 +70,8 @@ learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 
 <br>
 This meeting is graciously supported by a grant from the LSST Corporation's Enabling Science Small Grants Program and by the University of Belgrade.
 
-[foto_initials.pdf](https://github.com/LSST-sersag/dle/files/6647223/foto_initials.pdf)
+<img width="940" alt="GroupPhoto" src="https://user-images.githubusercontent.com/78701856/121871316-41a7a080-cd04-11eb-9bcf-d34f6482cebc.png">
+
 
 <table>
   
