@@ -8,7 +8,7 @@
 <b> Co-Is:</b>  Luka C. Popovic (Astronomical Observatory Belgrade, University of Belgrade, lpopovic@aob.rs), Paula Sánchez Sáez (Pontificia Universidad Católica de Chile, pasanchezsaez@gmail.com), Robert Nikkuta
 (NOIRLab, robert.nikutta@noirlab.edu)
 
-<b> Postdocs: </b> Viktor Radović (rviktor@math.rs,, University of Belgrade), Djordje Savić(djasvic@aob.rs,,
+<b> Postdocs: </b> Viktor Radović (rviktor@math.rs, University of Belgrade), Djordje Savić(djasvic@aob.rs,
 Astronomical Observatory Belgrade)
 
 <b> PhD students: </b> Iva Čvorović Hajdinjak(iva_cvorovic@gmail.com,University of Belgrade), Isidora Jankov (isidora_jankov@math.rs,University of Belgrade), Nemanja Rakić (rakinemanja@gmail.com, University of Belgrade)
