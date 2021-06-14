@@ -65,12 +65,12 @@ learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 
   <li> <b> Final workshop. </b> Towards the end of the project (~ in 10th month) a final 2-day online workshop will be organized with the aim to review, evaluate, and disseminate the developed tool(s). Event will have a format of 1-2 invited talks and short student presentation, with a wide participation from the Rubin LSST Community. </li>
   </ol>
 
+<img width="840" alt="GroupPhoto" src="https://user-images.githubusercontent.com/78701856/121871316-41a7a080-cd04-11eb-9bcf-d34f6482cebc.png">
 
 <b> Sponsors </b>
 <br>
 This meeting is graciously supported by a grant from the LSST Corporation's Enabling Science Small Grants Program and by the University of Belgrade.
 
-<img width="940" alt="GroupPhoto" src="https://user-images.githubusercontent.com/78701856/121871316-41a7a080-cd04-11eb-9bcf-d34f6482cebc.png">
 
 
 <table>
