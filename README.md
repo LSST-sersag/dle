@@ -69,7 +69,7 @@ learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 
 
 <b> Sponsors </b>
 <br>
-This meeting is graciously supported by a grant from the LSST Corporation's Enabling Science Small Grants Program and by the University of Belgrade.
+This project is graciously supported by a grant from the LSST Corporation's Enabling Science Small Grants Program and by the University of Belgrade.
 
 
 
