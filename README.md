@@ -82,7 +82,7 @@ This meeting is graciously supported by a grant from the LSST Corporation's Enab
   </tr>
   <tr>
     <td>  <img width=250 height=100 src="https://user-images.githubusercontent.com/78701856/121677377-116ac280-cab6-11eb-80a9-058141fd9939.png"> </td>
-    <td> <img width=130 height=100 src="https://user-images.githubusercontent.com/78701856/121677418-1d568480-cab6-11eb-8c42-0a72b4e8ead5.gif"> </td>
+    <td> <img width=110 height=100 src="https://user-images.githubusercontent.com/78701856/121677418-1d568480-cab6-11eb-8c42-0a72b4e8ead5.gif"> </td>
     <td> <img width=200 height=100 src="https://user-images.githubusercontent.com/78701856/121677472-3101eb00-cab6-11eb-87fc-b1c193d03ef0.png"> </td>
 
   </tr>
