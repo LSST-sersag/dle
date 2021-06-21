@@ -5,7 +5,7 @@
 
 <b> PIs:</b>  Andjelka Kovacevic (andjelka@math.rs), Dragana Ilic (dilic@math.rs), University of Belgrade,
 
-<b> Co-Is:</b>  Luka C. Popovic (Astronomical Observatory Belgrade, University of Belgrade, lpopovic@aob.rs), Paula Sánchez Sáez (Pontificia Universidad Católica de Chile, pasanchezsaez@gmail.com), Robert Nikkuta
+<b> Co-Is:</b>  Luka C. Popovic (Astronomical Observatory Belgrade, University of Belgrade, lpopovic@aob.rs), Paula Sánchez Sáez (Pontificia Universidad Católica de Chile, pasanchezsaez@gmail.com), Robert Nikutta
 (NOIRLab, robert.nikutta@noirlab.edu)
 
 <b> Postdocs: </b> Viktor Radović (rviktor@math.rs, University of Belgrade), Djordje Savić(djasvic@aob.rs,
