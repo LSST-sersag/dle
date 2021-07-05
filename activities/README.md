@@ -1,8 +1,6 @@
 
 <ol>
-  <li> Isidora Jankov, Iva Čvorović-Hajdinjak: <b> Analysis of the AGN light-curves using date obtained from the LSST. </b> Lecture held on the student seminar 18. 6. 2021. <br> 
-    
-    Link: <a href="https://www.youtube.com/watch?v=LzxeHFsAZ3Q"> https://www.youtube.com/watch?v=LzxeHFsAZ3Q </a>
+  <li> Isidora Jankov, Iva Čvorović-Hajdinjak: <b> Analysis of the AGN light-curves using date obtained from the LSST. </b> Lecture held on the student seminar 18. 6. 2021. <br> Link: <a href="https://www.youtube.com/watch?v=LzxeHFsAZ3Q"> https://www.youtube.com/watch?v=LzxeHFsAZ3Q </a>
 
  </li>
   
