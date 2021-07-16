@@ -15,6 +15,8 @@
 
 <b> PhD students: </b> Iva Čvorović Hajdinjak(iva_cvorovic@gmail.com, University of Belgrade), Isidora Jankov (isidora_jankov@math.rs, University of Belgrade), Nemanja Rakić (rakinemanja@gmail.com, University of Belgrade)
 
+<b> Short-term internship students: </b> Nikola Andrić Mitrović (andricmitrovicnikola@yahoo.com, University of Belgrade) 
+
 <b> Summary: </b> <i>  Developing deep learning engines (DLEs) for non-parametric modeling and extracting of information from active galactic nuclei (AGN) light-curves (LCs), which are directly related to the scientific objectives of the LSST Exploring transient optical sky. Developed DLEs Jupyter notebooks might be adaptable for modeling of light-curves of other objects, and will be tested on LSST Data Previews, as well as on other datasets through NOIRLab services. </i>
 
 
