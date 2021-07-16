@@ -8,7 +8,7 @@
     <b> Deep Learning Engines for LSST AGN photometric reverberation mapping </b>, AGN SC Summer Meeting, July 12-14, 2021 <br>
     Abstract: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/DLE_AGN_SC_apstract.pdf"> DLE_AGN_SC_apstract.pdf </a> <br>
     Video of the lecture: <a href="https://www.youtube.com/watch?v=MYKg1J0jRwQ" > https://www.youtube.com/watch?v=MYKg1J0jRwQ </a>
-    PDF of the presentation: <a href=""> </a> 
+    PDF of the presentation: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/Deep%20Learning%20Engines%20for%20LSST%20AGN%20photometric%20reverberation%20mapping.pdf"> DLE_AGN_SC_presentation.pdf </a> 
     
     
   </li>
@@ -21,7 +21,7 @@
   
   <li>
     Short-term student internships: 
-    <ul> <li> <b> Nikola Andrić Mitrović </b> (CV available <a href="https://github.com/LSST-sersag/dle/blob/main/activities/CV_Nikola_Andric_Mitrovic.pdf">here</a>) -  conditional neural process startting from 08. August </li> </ul>
+    <ul> <li> <b> Nikola Andrić Mitrović </b> (CV available <a href="https://github.com/LSST-sersag/dle/blob/main/activities/CV_Nikola_Andric_Mitrovic.pdf">here</a>) -  conditional neural process startting from August 8th </li> </ul>
     
   </li>
   
