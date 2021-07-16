@@ -18,4 +18,10 @@
     
   </li>
   
+  <li>
+    Short-term student internships: 
+    <ul> <li> <b> Nikola Andrić Mitrović </b> -  conditional neural process startting from 08. August </li> </ul>
+    
+  </li>
+  
  </ol>
