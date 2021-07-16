@@ -6,7 +6,9 @@
   
   <li> Iva Čvorović - Hajdinjak, Isidora Jankov, Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta, 
     <b> Deep Learning Engines for LSST AGN photometric reverberation mapping </b>, AGN SC Summer Meeting, July 12-14, 2021 <br>
-    Abstract: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/DLE_AGN_SC_apstract.pdf"> DLE_AGN_SC_apstract.pdf </a>
+    Abstract: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/DLE_AGN_SC_apstract.pdf"> DLE_AGN_SC_apstract.pdf </a> <br>
+    Video of the lecture: <a href="https://www.youtube.com/watch?v=MYKg1J0jRwQ" > https://www.youtube.com/watch?v=MYKg1J0jRwQ </a>
+    
     
   </li>
   
