@@ -56,8 +56,8 @@ In the first phase, DLEs will be developed on the local Cluster. We will run and
 <b> Deliverables: </b>
 <ol> <li> <b> Presentations at conferences: </b>
 1xDLE1, at the  European Astronomical Society  Annual Meeting - EAS 2021, subtheme SS32: Machine
-learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 1XDLE2 at the 13th SCSLSA Conference (Aug 23-27, 2021)
-1xDLE1, 1xDLE2 in 2022 (SPIG 2022, LSST PCW 2022;
+learning and visualisation in data intensive era (Jun 28 - Jul 2, 2021) 1xDLE1, 1xDLE2 at the 13th SCSLSA Conference (Aug 23-27, 2021)
+1xDLE1, 1xDLE2 in 2022 (SPIG 2022, LSST PCW 2022);
   </li>
   <li>
     <b> Papers: </b>1xDLE1, 1xDLE2 in Astronomische Nachrichten by the end of 2021; 1xDLE1, 1xDLE2 in a scientific journal by the end of 2022; </li>
