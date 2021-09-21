@@ -12,10 +12,13 @@
     
     
   </li>
-  
-  <li> Iva Čvorović - Hajdinjak, Isidora Jankov, Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta, 
-    <b> Deep learning of AGN spectral variability </b>, 13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrade, Serbia, August 23 - 27, 2021 <br>
-    Abstract: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/DL_AGN_13_SCSLSA_apstract.pdf"> DLE_AGN_SC_apstract.pdf </a>
+
+  <li> Iva Čvorović - Hajdinjak, Isidora Jankov,Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,   <b> Conditional neural process for LSST AGN non parametric light curve modelling </b>, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
+    Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
+    
+  </li>
+  <li> Isidora Jankov, Viktor Radović,  Iva Čvorović - Hajdinjak, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,  <b> Using LSST light curves for photometric reverberation mapping of the broad-line region in AGNs </b>, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
+    Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
     
   </li>
   
@@ -23,6 +26,12 @@
     Short-term student internships: 
     <ul> <li> <b> Nikola Andrić Mitrović </b> (CV available <a href="https://github.com/LSST-sersag/dle/blob/main/activities/CV_Nikola_Andric_Mitrovic.pdf">here</a>) -  conditional neural process startting from August 8th </li> </ul>
     
+  </li>
+    
+  <li> Iva Čvorović - Hajdinjak, Isidora Jankov, Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta, 
+    <b> Deep learning of AGN spectral variability </b>, 13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrade, Serbia, August 23 - 27, 2021 <br>
+    Abstract: <a href="https://github.com/LSST-sersag/dle/blob/main/activities/DL_AGN_13_SCSLSA_apstract.pdf"> DLE_AGN_SC_apstract.pdf </a> <br> 
+     Video of the lecture: <a href="http://servo.aob.rs/scslsa/files/recordings13/Day3.mp4"> http://servo.aob.rs/scslsa/files/recordings13/Day3.mp4 </a> 
   </li>
   
  </ol>
