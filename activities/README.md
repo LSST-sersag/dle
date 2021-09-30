@@ -14,6 +14,9 @@
     
   </li>
   <br>
+  
+  <img width="593" alt="image" src="https://user-images.githubusercontent.com/78701856/135506664-c7e5dee3-8d23-4e02-a38d-00a7c2cd6c55.png">
+
 
   <li> Iva Čvorović - Hajdinjak, Isidora Jankov,Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,   <b> Conditional neural process for LSST AGN non parametric light curve modelling </b>, Research Bytes, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
     Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
@@ -33,10 +36,14 @@
   </li>
   <br>
   
-  <img width="833" alt="image" src="https://user-images.githubusercontent.com/78701856/135506537-ee97a72f-5bbe-49a6-bb01-06153d27c1c4.png">
+  
+  <table align = "center">
+    <tr>
+  <td> <img width="500" alt="image" src="https://user-images.githubusercontent.com/78701856/135506537-ee97a72f-5bbe-49a6-bb01-06153d27c1c4.png"> </td>
 
-  <img width="825" alt="image" src="https://user-images.githubusercontent.com/78701856/135506337-4ff2cd7b-84fe-4874-837c-50c455eb59ab.png">
-
+  <td> <img width="500" alt="image" src="https://user-images.githubusercontent.com/78701856/135506337-4ff2cd7b-84fe-4874-837c-50c455eb59ab.png"> </td> 
+    </tr>
+  </table>
     
   <li> Iva Čvorović - Hajdinjak, Isidora Jankov, Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta, 
     <b> Deep learning of AGN spectral variability </b>, 13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrade, Serbia, August 23 - 27, 2021 <br>
