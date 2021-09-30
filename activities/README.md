@@ -32,6 +32,9 @@
     
   </li>
   <br>
+  
+  <img width="825" alt="image" src="https://user-images.githubusercontent.com/78701856/135506337-4ff2cd7b-84fe-4874-837c-50c455eb59ab.png">
+
     
   <li> Iva Čvorović - Hajdinjak, Isidora Jankov, Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta, 
     <b> Deep learning of AGN spectral variability </b>, 13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrade, Serbia, August 23 - 27, 2021 <br>
