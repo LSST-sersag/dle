@@ -14,9 +14,9 @@
     
   </li>
   <br>
-  
-  <img width="593" alt="image" align="center" src="https://user-images.githubusercontent.com/78701856/135506664-c7e5dee3-8d23-4e02-a38d-00a7c2cd6c55.png">
-
+  <table align="center"> 
+  <tr> <td> <img width="593" alt="image" align="center" src="https://user-images.githubusercontent.com/78701856/135506664-c7e5dee3-8d23-4e02-a38d-00a7c2cd6c55.png"> </td> </tr>
+  </table>
 
   <li> Iva Čvorović - Hajdinjak, Isidora Jankov,Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,   <b> Conditional neural process for LSST AGN non parametric light curve modelling </b>, Research Bytes, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
     Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
