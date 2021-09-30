@@ -15,12 +15,12 @@
   </li>
   <br>
 
-  <li> Iva Čvorović - Hajdinjak, Isidora Jankov,Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,   <b> Conditional neural process for LSST AGN non parametric light curve modelling </b>, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
+  <li> Iva Čvorović - Hajdinjak, Isidora Jankov,Viktor Radović, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,   <b> Conditional neural process for LSST AGN non parametric light curve modelling </b>, Research Bytes, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
     Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
     
   </li>
   <br>
-  <li> Isidora Jankov, Viktor Radović,  Iva Čvorović - Hajdinjak, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,  <b> Using LSST light curves for photometric reverberation mapping of the broad-line region in AGNs </b>, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
+  <li> Isidora Jankov, Viktor Radović,  Iva Čvorović - Hajdinjak, Anđelka B. Kovačević, Dragana Ilić, Luka Č. Popović, Paula Sanchez-Saez, Robert Nikutta,  <b> Using LSST light curves for photometric reverberation mapping of the broad-line region in AGNs </b>, Research Bytes, Project & Community Workshop, Virtual/Remote, August 9 - 13, 2021 <br>
     Video of the lecture: <a href="https://www.youtube.com/watch?v=AUMDm5kbVHU"> https://www.youtube.com/watch?v=AUMDm5kbVHU </a> 
     
   </li>
