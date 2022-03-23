@@ -1,10 +1,10 @@
 <h1> Workshop Info </h1>
 
 <h3> Title: </h3> 
-<b> Student intro training on Python for data processing of AGN variability within
-the Large Survey of Space and Time (LSST) </b> <br>
+ Student intro training on Python for data processing of AGN variability within
+the Large Survey of Space and Time (LSST) <br>
 
-<h3> Time:  </h3> <b> March 26, 2022 </b>
+<h3> Time:  </h3>  March 26, 2022 
 
 <h3> Lecturers:  </h3> <br>
 Andjelka Kovacevic, Dragana Ilic, Robert Nikutta, Paula Sánchez Sáez, Isidora
