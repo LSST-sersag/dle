@@ -54,15 +54,17 @@ Preliminary Program: <br>
 <b> I session, 9:00 Belgrade (11:00 Addis Ababa) </b> <br>
 - General introduction: LSST and  AGN variability - Dragana Ilic, Andjelka
 Kovacevic, Paula Sánchez Sáez <br>
+Short break <br>
 - Tutorial 1: intro to Jupyter notebooks - Viktor Radovic <br> 
 - Tutorial 2: presentation of PhotoRM notebook - Isidora Jankov <br>
 
 <br> <b> II session, 13:00 Belgrade (15:00 Addis Ababa) </b> <br>
 - Presentation of Astro DataLab - Robert Nikutta  <br>
 - Tutorial 3: time domain notebook from Astro DataLab - Robert Nikutta  <br>
+Short Break <br>
 - Presentation of TVS science collaboration - Rachel Street <br>
 - Presentation of AGN science collaboration - Matthew Temple <br>
-- Presentation of ESSTI - TBC 
+- Presentation of ESSTI - TBC <br>
 Q&A session <br>
 
 <br>
