@@ -65,9 +65,9 @@ Kovacevic, Paula Sánchez Sáez <br>
 - Presentation of ESSTI - TBC 
 Q&A session <br>
 
+<br>
 
-
-<h3> Software installation: </h3> <br>
+<h3> Preparation and software installation: </h3> <br>
 
 Please install Python and Jupyter notebook.
 
@@ -80,14 +80,14 @@ The usage of Jupyter notebook will be presented in details during the workshop. 
 https://docs.anaconda.com/ae-notebooks/4.3.1/user-guide/basic-tasks/apps/jupyter/ <br>
 
 
-
-<h3> Sign up for an user account in Astro Data Lab: </h3> <br>
+Sign up for an user account in Astro Data Lab: <br>
 
 https://datalab.noirlab.edu/help/register.php?qa=register <br>
 
 Please enter this in the "Justification for a Data Lab account" field: 'Participant at LSST AGN variability workshop' <br>
 
-
+<br>
+<br>
 
 
 <h3> Credits: </h3> <br>
