@@ -1,4 +1,6 @@
-<h1> Workshop Info </h1>
+<h1> Training Workshop Info </h1>
+
+<br>
 
 <h3> Title: </h3> 
  Student intro training on Python for data processing of AGN variability within
@@ -49,7 +51,7 @@ Participants: Undergraduate and graduate students mostly from the University of
 Belgrade and several universities in Ethiopia, but others are welcomed. <br>
 
 
-Preliminary Program: <br>
+<h3> Program: </h3> <br>
 
 <b> I session, 9:00 Belgrade (11:00 Addis Ababa) </b> <br>
 - General introduction: LSST and  AGN variability - Dragana Ilic, Andjelka
