@@ -62,7 +62,32 @@ Kovacevic, Paula Sánchez Sáez <br>
 - Tutorial 3: time domain notebook from Astro DataLab - Robert Nikutta  <br>
 - Presentation of TVS science collaboration - Rachel Street <br>
 - Presentation of AGN science collaboration - Matthew Temple <br>
+- Presentation of ESSTI - TBC 
 Q&A session <br>
+
+
+
+<h3> Software installation: </h3> <br>
+
+Please install Python and Jupyter notebook.
+
+We recommend the installation through Anaconda, follow the instructions from: https://docs.anaconda.com/anaconda/install/ <br>
+
+Anaconda will install Python and Jupyter notebook, but also many other tools and software, please follow carefully installation prompts. <br>
+
+
+The usage of Jupyter notebook will be presented in details during the workshop. <br>
+https://docs.anaconda.com/ae-notebooks/4.3.1/user-guide/basic-tasks/apps/jupyter/ <br>
+
+
+
+<h3> Sign up for an user account in Astro Data Lab: </h3> <br>
+
+https://datalab.noirlab.edu/help/register.php?qa=register <br>
+
+Please enter this in the "Justification for a Data Lab account" field: 'Participant at LSST AGN variability workshop' <br>
+
+
 
 
 <h3> Credits: </h3> <br>
