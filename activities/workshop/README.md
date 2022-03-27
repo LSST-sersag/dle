@@ -59,8 +59,8 @@ Belgrade and several universities in Ethiopia, but others are welcomed. <br>
 <h3> Program: </h3> <br>
 
 <b> I session, 9:00 Belgrade (11:00 Addis Ababa) </b> <br>
-- General introduction: LSST and  AGN variability - Dragana Ilic, Andjelka
-Kovacevic, Paula Sánchez Sáez <br>
+- <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/LSST_DLE_Introduction.pdf"> General introduction: LSST and  AGN variability - Dragana Ilic, Andjelka
+Kovacevic, Paula Sánchez Sáez </a> <br>
 Short break <br>
 - Tutorial 1: intro to Jupyter notebooks - Viktor Radovic <br> 
 - Tutorial 2: presentation of PhotoRM notebook - Isidora Jankov <br>
