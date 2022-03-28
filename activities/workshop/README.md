@@ -66,7 +66,7 @@ Short break <br>
 - Tutorial 2: presentation of PhotoRM notebook - Isidora Jankov <br>
 
 <br> <b> II session, 13:00 Belgrade (15:00 Addis Ababa) </b> <br>
-- Presentation of Astro DataLab - Robert Nikutta  <br>
+- <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/AstroDataLab_slides_RobertNikutta.pdf" >Presentation of Astro DataLab - Robert Nikutta </a>  <br>
 - Tutorial 3: time domain notebook from Astro DataLab - Robert Nikutta  <br>
 Short Break <br>
 - Presentation of TVS science collaboration - Rachel Street <br>
