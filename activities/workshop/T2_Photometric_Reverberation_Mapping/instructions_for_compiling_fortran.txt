@@ -1,0 +1,12 @@
+INSTRUCTIONS FOR COMPILING FORTRAN SOURCE CODE:
+
+1. Open the terminal and navigate to the directory where you downloaded fortran source code (.f90 files)
+
+2. To compile the source code of ZDCF, type into terminal: gfortran zdcf_v2.2.f90 -o zdcf
+
+3. To compile the source code of PLIKE, type into terminal: gfortran plike_v4.0.f90 -o plike
+
+4. You can run those programs from terminal by typing: ./zdcf (or ./plike)
+
+5. Be sure to add these zdcf and plike files to a directory you specified in the PhotoRM notebook (for me, it was ./fortran_dir)
+
