@@ -71,7 +71,7 @@ Short break <br>
 Short Break <br>
 - <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/TVS_overview_2022_ESSTI.pdf"> Presentation of TVS science collaboration - Rachel Street </a>  <br>
 - Presentation of AGN science collaboration - Matthew Temple <br>
-- Presentation of ESSTI - Seblu Humne <br>
+- <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/SeblusPresentation_26March2022.pdf"> Presentation of ESSTI - Seblu Humne </a> <br>
 Q&A session <br>
 
 <br>
