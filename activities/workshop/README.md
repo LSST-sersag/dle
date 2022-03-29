@@ -69,9 +69,9 @@ Short break <br>
 - <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/AstroDataLab_slides_RobertNikutta.pdf" >Presentation of Astro DataLab - Robert Nikutta </a>  <br>
 - Tutorial 3: time domain notebook from Astro DataLab - Robert Nikutta  <br>
 Short Break <br>
-- Presentation of TVS science collaboration - Rachel Street <br>
+- <a href="https://github.com/LSST-sersag/dle/blob/main/activities/workshop/TVS_overview_2022_ESSTI.pdf"> Presentation of TVS science collaboration - Rachel Street </a>  <br>
 - Presentation of AGN science collaboration - Matthew Temple <br>
-- Presentation of ESSTI - TBC <br>
+- Presentation of ESSTI - Seblu Humne <br>
 Q&A session <br>
 
 <br>
