@@ -8,6 +8,7 @@ A set of functions for:
 
 - generating artificial AGN light curves using a Damped Random Walk process (see Kovačević et al. 2021).
 - generating artificial AGN photometric light curves for photometric reverberation mapping (see Jankov et al. 2022)
+- implementation of photometric reverberation mapping formalism described in Chelouche & Daniel (2012)
 - utility functions for preparing these light curves for ZDCF and PLIKE programs (Alexander 1997)
 
 Attribution
